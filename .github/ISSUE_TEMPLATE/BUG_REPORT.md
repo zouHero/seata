@@ -9,10 +9,11 @@ about: If you would like to report a issue to Seata, please use this template.
 
 ### Ⅰ. Issue Description
 
-
+  Could not found property service.disableGlobalTransaction, try to use default value instead
+  from seata-1.0.0
 ### Ⅱ. Describe what happened
 
-  If there is an exception, please attach the exception trace:
+  Could not found property service.disableGlobalTransaction, try to use default value instead
 
 ```
 Just paste your stack trace here!
@@ -33,6 +34,6 @@ Just paste your stack trace here!
 
 ### Ⅵ. Environment:
 
-- JDK version :
+- JDK version : 1.8
 - OS :
 - Others:
